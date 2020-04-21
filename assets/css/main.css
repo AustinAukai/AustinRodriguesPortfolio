@@ -2807,9 +2807,9 @@ input, select, textarea {
 		.panel.color4-alt {
 			background-image: linear-gradient(
 					to right bottom,
-						rgba(12, 12, 12, 0.9),
-						rgba(58, 58, 58, 0.9)),
-						url("../../images/elmer-canas-0w9b4njjdUE-unsplash.jpg");
+						rgba(12, 12, 12, .98),
+						rgba(58, 58, 58, .98)),
+						url("../../images/alan-quirvan-Qr0VwoZUmSA-unsplash.jpg");
 				background-size: cover;
 		}
 
